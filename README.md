@@ -3,7 +3,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/bhanuka-lakshitha-a31926215/)
 <div align="center">
   <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello!;I'm%20Bhanuka%20Lakshitha%20Dayananda;Web%20Developer;Web%20Designer;Writer%20@Medium;&font=Fira%20Code&center=true&width=440&height=45&color=071952&vCenter=true&size=28" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hello!;I'm%20Bhanuka%20Dayananda;Web%20Developer;Web%20Designer;Writer%20@Medium;&font=Fira%20Code&center=true&width=440&height=45&color=071952&vCenter=true&size=28" width="100%"></a>
 </p>
   <!-- Social icons section -->
 <p align="center">
