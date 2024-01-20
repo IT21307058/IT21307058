@@ -41,7 +41,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Spring, SpringBoot, Angular**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Java Based Projects, MERN Project, React Native Project**
 
